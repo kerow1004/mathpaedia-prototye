@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Math Problems.vue has the expected html structure 1`] = `
+<div
+  class="list-group"
+  id="problems-list"
+>
+  <div
+    class="list-group-item"
+  >
+    <!---->
+  </div>
+  <div
+    class="list-group-item"
+  >
+    <!---->
+  </div>
+</div>
+`;

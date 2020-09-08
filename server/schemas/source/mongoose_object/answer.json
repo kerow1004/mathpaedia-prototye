@@ -1,0 +1,8 @@
+{
+  "userId": {
+    "required": true
+  },
+  "problemId": {
+    "required": true
+  }
+}

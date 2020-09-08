@@ -1,0 +1,16 @@
+{
+  "content": {
+    "explanation": {
+      "es_indexed": true
+    },
+    "choices": {
+      "es_indexed": true
+    }
+  },
+  "userId": {
+    "es_indexed": true
+  },
+  "problemId": {
+    "es_indexed": true
+  }
+}

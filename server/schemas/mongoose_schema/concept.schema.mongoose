@@ -1,0 +1,11 @@
+{
+  "_id": {
+    "type": "String"
+  },
+  "parent": {
+    "type": "String"
+  },
+  "order": {
+    "type": "Number"
+  }
+}

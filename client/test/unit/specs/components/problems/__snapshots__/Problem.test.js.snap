@@ -1,0 +1,101 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Math Problem.vue has the expected html structure 1`] = `
+<div
+  class="list-group-item"
+>
+  <div
+    class="problem"
+  >
+    <div>
+      <div
+        class="part-sentence"
+      >
+        <strong>
+          11
+        </strong>
+        . math problem sentence
+  
+      </div>
+       
+      <div
+        class="picture-container"
+      >
+        <img
+          class="picture"
+          src="http://picture.math.com/123456"
+        />
+      </div>
+       
+      <div>
+        <ol>
+          <li>
+            1
+          </li>
+          <li>
+            2
+          </li>
+          <li>
+            3
+          </li>
+          <li>
+            4
+          </li>
+          <li>
+            5
+          </li>
+        </ol>
+      </div>
+    </div>
+     
+    <div
+      class="list-group"
+    >
+      <div
+        class="list-group-item"
+      >
+        <div>
+          <div
+            class="part-sentence"
+          >
+            <strong>
+              1
+            </strong>
+            . math part sentence
+  
+          </div>
+           
+          <div
+            class="picture-container"
+          >
+            <img
+              class="picture"
+              src="http://picture.math.com/1234567"
+            />
+          </div>
+           
+          <div>
+            <ol>
+              <li>
+                11
+              </li>
+              <li>
+                22
+              </li>
+              <li>
+                33
+              </li>
+              <li>
+                44
+              </li>
+              <li>
+                55
+              </li>
+            </ol>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

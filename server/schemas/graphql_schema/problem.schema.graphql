@@ -1,0 +1,50 @@
+type Query {
+    problem(id: Int!): Problem
+    problems: [Problem]
+}
+
+type Problem {
+    _id: Int!
+    content: ProblemContent
+    parts: [ProblemPart]
+    keywords: [String]
+    curriculum: String
+}
+
+type ProblemContent {
+    sentence: String!
+    picture: String
+    choices: [String]
+}
+
+type ProblemPart {
+    sentence: String!
+    picture: String
+    choices: [String]
+}
+
+input ProblemInput {
+    content: ProblemContentInput
+    parts: [ProblemPartInput]
+    userId: Int
+    keywords: [String]
+    curriculum: String
+}
+
+input ProblemContentInput {
+    sentence: String!
+    picture: String
+    choices: [String]
+}
+
+input ProblemPartInput {
+    sentence: String!
+    picture: String
+    choices: [String]
+}
+
+type Mutation {
+    createProblem(input: ProblemInput!): Problem
+    updateProblem(id: Int!, input: ProblemInput!): Problem
+    deleteProblem(id: Int!): Problem
+}

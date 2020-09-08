@@ -1,0 +1,38 @@
+{
+  "content": {
+    "sentence": {
+      "type": "String",
+      "required": true,
+      "es_indexed": true
+    },
+    "picture": {
+      "type": "String"
+    },
+    "choices": {
+      "type": [
+        "String"
+      ]
+    }
+  },
+  "parts": [
+    {
+      "sentence": {
+        "type": "string",
+        "es_indexed": true
+      }
+    }
+  ],
+  "userId": {
+    "type": "Number",
+    "es_indexed": true
+  },
+  "curriculum": {
+    "type": "String"
+  },
+  "keywords": {
+    "type": [
+      "String"
+    ],
+    "es_indexed": true
+  }
+}

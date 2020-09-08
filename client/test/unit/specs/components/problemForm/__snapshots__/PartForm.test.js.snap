@@ -1,0 +1,139 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PartForm.vue has the expected html structure 1`] = `
+<div>
+  <div>
+    <div
+      id="__BVID__2___BV_modal_outer_"
+    >
+      <transition-stub />
+      <!---->
+    </div>
+  </div>
+   
+  <fieldset
+    aria-describedby="problemSentenceGroup__BV_description_"
+    aria-labelledby="problemSentenceGroup__BV_label_"
+    class="b-form-group form-group"
+    id="problemSentenceGroup"
+    role="group"
+  >
+    <legend
+      class="col-form-label pt-0"
+      id="problemSentenceGroup__BV_label_"
+    >
+      Sentence:
+    </legend>
+    <div
+      aria-labelledby="problemSentenceGroup__BV_label_"
+      class=""
+      role="group"
+    >
+      <div
+        class="input-data"
+        id="problemSentence"
+      >
+        
+    
+      </div>
+      <!---->
+      <!---->
+      <small
+        class="form-text text-muted"
+        id="problemSentenceGroup__BV_description_"
+      >
+        Click to edit sentence with math equations
+      </small>
+    </div>
+  </fieldset>
+   
+  <div
+    aria-labelledby="problemPictureGroup__BV_label_"
+    class="b-form-group form-group"
+    id="problemPictureGroup"
+    role="group"
+  >
+    <label
+      class="col-form-label pt-0"
+      for="problemPicture"
+      id="problemPictureGroup__BV_label_"
+    >
+      Picture(Graph):
+    </label>
+    <div
+      class=""
+    >
+      <input
+        class="form-control"
+        id="problemPicture"
+        placeholder="Enter URL of math picture(graph)"
+        type="text"
+        value=""
+      />
+      <!---->
+      <!---->
+      <!---->
+    </div>
+  </div>
+   
+  <fieldset
+    aria-labelledby="problemChoicesGroup__BV_label_"
+    class="b-form-group form-group"
+    id="problemChoicesGroup"
+    role="group"
+  >
+    <legend
+      class="col-form-label pt-0"
+      id="problemChoicesGroup__BV_label_"
+    >
+      Choices:
+    </legend>
+    <div
+      aria-labelledby="problemChoicesGroup__BV_label_"
+      class=""
+      role="group"
+    >
+      <div
+        class="input-choice"
+      >
+        <div
+          class="input-group"
+          role="group"
+        >
+          <div
+            class="input-group-prepend"
+          >
+            <div
+              class="input-group-text"
+            >
+              Choice 1
+            </div>
+          </div>
+          <input
+            class="form-control"
+            id="__BVID__8"
+            type="text"
+            value=""
+          />
+           
+          <div
+            class="input-group-append"
+          >
+            <!---->
+             
+            <button
+              class="btn btn-success"
+              type="button"
+            >
+              +
+            </button>
+          </div>
+        </div>
+      </div>
+      <!---->
+      <!---->
+      <!---->
+    </div>
+  </fieldset>
+</div>
+`;

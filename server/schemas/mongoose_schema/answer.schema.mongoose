@@ -1,0 +1,27 @@
+{
+  "content": {
+    "choices": {
+      "type": [
+        "String"
+      ],
+      "es_indexed": true
+    },
+    "explanation": {
+      "type": "String",
+      "es_indexed": true
+    },
+    "picture": {
+      "type": "String"
+    }
+  },
+  "userId": {
+    "type": "Number",
+    "required": true,
+    "es_indexed": true
+  },
+  "problemId": {
+    "type": "Number",
+    "required": true,
+    "es_indexed": true
+  }
+}

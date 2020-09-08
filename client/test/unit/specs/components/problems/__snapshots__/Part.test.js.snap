@@ -1,0 +1,44 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Math Part.vue renders a part of math problem 1`] = `
+<div>
+  <div
+    class="part-sentence"
+  >
+    <strong>
+      11
+    </strong>
+    . math part sentence
+  
+  </div>
+   
+  <div
+    class="picture-container"
+  >
+    <img
+      class="picture"
+      src="http://picture.math.com/123456"
+    />
+  </div>
+   
+  <div>
+    <ol>
+      <li>
+        1
+      </li>
+      <li>
+        2
+      </li>
+      <li>
+        3
+      </li>
+      <li>
+        4
+      </li>
+      <li>
+        5
+      </li>
+    </ol>
+  </div>
+</div>
+`;

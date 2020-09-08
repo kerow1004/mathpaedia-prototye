@@ -1,0 +1,70 @@
+[
+  {
+    "content": {
+      "sentence": "다음 극한값을 구하시오."
+    },
+    "parts": [
+      {
+        "sentence": "\\lim_{x\\to0}\\frac{1}{x}\\left(\\frac{1}{x+1}-1\\right)"
+      },
+      {
+        "sentence": "\\lim_{x\\to\\infty}x\\left(\\frac{\\sqrt{x-1}}{\\sqrt{x+1}}-1\\right)"
+      }
+    ],
+    "userId": 144,
+    "curriculum": "19-04-11-21-43"
+  },
+  {
+    "content": {
+      "sentence": "다음의 답은 무엇일까요?",
+      "picture": "https://www.s-cool.co.uk/assets/learn_its/gcse/maths/graphs/algebraic-graphs/g-mat-graph-dia02.gif",
+      "choices": [
+        "12",
+        "32",
+        "35",
+        "51",
+        "55"
+      ]
+    }
+  },
+  {
+    "content": {
+      "sentence": "잘 구해 보세요.",
+      "picture": "https://www.s-cool.co.uk/assets/learn_its/gcse/maths/graphs/algebraic-graphs/g-mat-graph-dia03.gif",
+      "choices": [
+        "1",
+        "3",
+        "15",
+        "22",
+        "26"
+      ]
+    }
+  },
+  {
+    "content": {
+      "choices": [
+        "11",
+        "22",
+        "33",
+        "44",
+        "55"
+      ],
+      "sentence": "새로운 문제다. 잘 풀어라. $a^2+b^2=c^2$ \n답은 무엇일까요?\n",
+      "picture": "https://www.s-cool.co.uk/assets/learn_its/gcse/maths/graphs/algebraic-graphs/g-mat-graph-dia04.gif"
+    },
+    "keywords": [
+      "방정식",
+      "이차",
+      "기하"
+    ]
+  },
+  {
+    "content": {
+      "choices": [
+        ""
+      ],
+      "sentence": "다음과 같은 경우에는 어떻게 풀어야 하는가?\n\n$\\int_{0}^{\\inf}4x^2+3x+6dx$ \n\n적분 결과는?\n",
+      "picture": "https://www.s-cool.co.uk/assets/learn_its/gcse/maths/graphs/algebraic-graphs/g-mat-graph-dia05.gif"
+    }
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "content": {
+    "sentence": {
+      "es_indexed": true
+    }
+  },
+  "parts": [
+    {
+      "sentence": {
+        "type": "string",
+        "es_indexed": true
+      }
+    }
+  ],
+  "userId": {
+    "es_indexed": true
+  },
+  "keywords": {
+    "es_indexed": true
+  }
+}

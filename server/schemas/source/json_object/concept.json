@@ -1,0 +1,64 @@
+[
+  {
+    "_id": "number-and-calculation",
+    "parent": null
+  },
+  {
+    "_id": "number-system-and-expression",
+    "parent": "number-and-calculation",
+    "order": 10
+  },
+  {
+    "_id": "calculation-of-number",
+    "parent": "number-and-calculation",
+    "order": 20
+  },
+  {
+    "_id": "set-and-definition",
+    "parent": "number-and-calculation",
+    "order": 30
+  },
+  {
+    "_id": "character-and-equation",
+    "parent": null
+  },
+  {
+    "_id": "polynomial",
+    "parent": "character-and-equation",
+    "order": 10
+  },
+  {
+    "_id": "equation-and-inequality",
+    "parent": "character-and-equation",
+    "order": 20
+  },
+  {
+    "_id": "pattern-and-function",
+    "parent": null
+  },
+  {
+    "_id": "pattern-and-correspondence",
+    "parent": "pattern-and-function",
+    "order": 10
+  },
+  {
+    "_id": "series",
+    "parent": "pattern-and-correspondence",
+    "order": 10
+  },
+  {
+    "_id": "function-and-graph",
+    "parent": "pattern-and-function",
+    "order": 10
+  },
+  {
+    "_id": "exponential-function-and-logarithmic-function",
+    "parent": "function-and-graph",
+    "order": 10
+  },
+  {
+    "_id": "trigonometrical-function",
+    "parent": "function-and-graph",
+    "order": 10
+  }
+]
